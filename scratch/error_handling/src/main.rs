@@ -27,10 +27,4 @@ fn main() {
     let contents = read_file_contents(file_name);
     println!("File contents: {}", contents);
 }
-
-
-
-
-
-
 */

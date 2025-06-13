@@ -1,5 +1,6 @@
 {
     "rust-analyzer.linkedProjects": [
         "scratch/error_handling/Cargo.toml",
+        "scratch/operator_q/Cargo.toml"
     ]
 }
