@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-# comfy-table = "6.1"
+comfy-table = "6.1"
 
 [features]
 allow_dead = []

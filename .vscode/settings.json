@@ -2,6 +2,7 @@
     "rust-analyzer.linkedProjects": [
         "scratch/error_handling/Cargo.toml",
         "scratch/operator_q/Cargo.toml",
+        "scratch/ch2/Cargo.toml",
         "scratch/scratch_board/Cargo.toml"
     ]
 }
